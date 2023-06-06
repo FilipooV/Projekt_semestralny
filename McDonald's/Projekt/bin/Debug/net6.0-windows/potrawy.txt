@@ -1,0 +1,30 @@
+Burger Drwala;30,00 zł;Wyśmienity kotlet 
+wołowy,
+plaster panierowanego sera
+i chrupiący bekon.;8/10
+;McWrap;13,90 zł;Soczysty kurczak ze 
+świeżymi warzywami 
+i niebiańskimi sosami.;9/10
+;Big Mac;13,70 zł;Podwójna porcja 
+mięsa i dodatkowa 
+warstwa bułki.;4/10
+;McRoyal;13,50 zł;W puszystej, 
+dobrze wypieczonej 
+bułce kryją się kotlet z piersi 
+kurczaka w złocistej panierce 
+oraz pokrojone liście 
+świeżej sałaty.;4/10
+;McChicken;12,90 zł;W puszystej, 
+dobrze wypieczonej
+bułce kryją się kotlet z piersi kurczaka
+w złocistej panierce oraz 
+pokrojone liście świeżej sałaty.;7/10
+;McDouble;7,60 zł;Zawarte w nim dwa plastry 
+wołowiny 100%, ser cheddar, 
+cebula, keczup i musztarda;6/10
+;Jalapeño burger;5,90 zł;Klasyczny smak wołowiny, 
+który dopełniają papryczki 
+jalapeño i pyszny pikantny sos.;10/10
+;Cheeseburger;5,50 zł;Prosty hamburger z 
+dodanym żółtym serem.;6/10;
+;

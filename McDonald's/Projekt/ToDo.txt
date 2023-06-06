@@ -1,0 +1,5 @@
+﻿Menu McDonald: 
+
+Stwórz menu dla ulubionej restauracji. Na liście umieść minimum 5 potraw. Po wybraniu danej potrawy wyświetl w osobnym oknie opis, cenę i ewentualną swoją ocenę (np. 5*).
+Potrawy i ich opisy umieść w pliku tekstowym.  
+Stwórz klasę zawierającą potrawę, jej opis i cenę. Po uruchomieniu aplikacji pobieraj potrawy do kolekcji (tablicy lub listy zawierającej obiekty Twojej klasy). 
